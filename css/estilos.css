@@ -1,0 +1,23 @@
+header {background-color: green; }
+
+body {background-color:#8FD4F4;
+    color: darkblue}
+
+p{
+    font-size: 20pt;
+
+}
+
+#eslogan{font-size: 30pt;
+        color: red;
+}
+
+.Parrafo{
+        background-color:darkviolet;
+}
+
+#servicios article img{
+    width: 300px;
+    height: 300px;
+}
+
